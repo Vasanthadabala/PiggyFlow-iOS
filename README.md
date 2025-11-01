@@ -57,18 +57,3 @@ It supports **bill scanning**, **charts**, **detailed expense tracking**, and **
 | Document Scanning | VisionKit / DataScanner API |
 
 ---
-
-## 🧩 Architecture
-
-The app follows a **MVVM (Model-View-ViewModel)** architecture:  
-- **Model** – Defines Expense, Income, and User data using SwiftData.  
-- **ViewModel** – Handles business logic, CRUD operations, and data binding.  
-- **View** – Built with SwiftUI for reactive UI updates.
-
----
-
-## 🧰 Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/BudgetTracker.git
